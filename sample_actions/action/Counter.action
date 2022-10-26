@@ -1,0 +1,5 @@
+int32 no_of_count       #goal
+---
+int32 final_count       #result
+---
+int32 current_count     #feedback
